@@ -1,0 +1,9 @@
+#########include<stdio.h>
+int main()
+{
+float num1,num2,subtract;
+scanf("%d%d",&num1,&num2);
+subtract=num1-num2;
+printf("%d",subtract);
+return 0;
+}#########
